@@ -1,0 +1,26 @@
+*{
+    background-color:#121212;
+}
+.head{
+    color:#ffffff;
+    position:relative;
+    
+    top:50px;
+}
+.main-d{
+    position:absolute;
+    top:100px;
+}
+.cl{
+    background-color: #C966D9;
+}
+.row2{
+    position:relative;
+    top:150px;
+}
+.txt-color{
+   color:#ffffff;
+}
+.family-1{
+    font-family: Courier;
+}
